@@ -11,12 +11,10 @@ Make the MVP **impressive, unbreakable, and memorable** for the judges — both 
     - Replace placeholders with final designs using ShadCN/UI components.
     - Add responsive design (mobile-friendly).
     - Ensure consistent color palette and typography.
-        
 - **Bug Fixes:**
     
     - Run weekly bug hunts.
     - Fix all console errors and API inconsistencies.
-      
 - **Performance Tweaks:**
     
     - Cache frequently used data.
